@@ -6,3 +6,5 @@ Main focus of this day:
     2) .map()
     3) .sort()
     4) .reduce
+
+Best one so far!
