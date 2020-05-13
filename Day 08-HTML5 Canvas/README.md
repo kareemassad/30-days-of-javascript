@@ -1,4 +1,4 @@
-# Day 08 - HTML5 Canvas
+# Day 10 - Shift Check Checkboxes
 
 Main focus of this day:
     
