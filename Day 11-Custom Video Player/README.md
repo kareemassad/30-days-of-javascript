@@ -1,6 +1,5 @@
-# Day XX - Template
+# Day 11 - Video Player
 
 Main focus of this day:
     
-    1) CSS Transitions
-    2) Flex with JS
+    1) How small things come together to make 1 product
