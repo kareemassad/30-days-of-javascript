@@ -1,6 +1,5 @@
-# Day XX - Template
+# Day 21 - Geolocation
 
 Main focus of this day:
     
-    1) CSS Transitions
-    2) Flex with JS
+    1) Navigation and geolocation!
