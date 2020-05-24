@@ -1,6 +1,5 @@
-# Day XX - Template
+# Day 20 - Native Speech Recognition
 
 Main focus of this day:
     
-    1) CSS Transitions
-    2) Flex with JS
+    1) javascript's built in native speech recognition!
