@@ -21,9 +21,9 @@ recognition.addEventListener('result', e => {
             p = document.createElement('p');
             words.appendChild(p);
         }
-        // if(transcript.includes('unicorn')) {
-        //     console.log('UNICORNS UNICORNS UNICORNS UNICORNS UNICORNS')
-        // }
+        if(transcript.includes('unicorn')) {
+            console.log('UNICORNS UNICORNS UNICORNS UNICORNS UNICORNS')
+        }
         // //needs to be debounced
         // if(transcript.includes('get the weather')) {
         //     console.log('getting the weather ya sack of shit');
