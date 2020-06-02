@@ -1,4 +1,4 @@
-# Day XX - Template
+# Day 30 - Whack A Mole
 
 Main focus of this day:
     
